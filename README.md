@@ -1,5 +1,6 @@
-# rverm2-jgosar2-lukez4-imathur3
-Final project for rverm2-jgosar2-lukez4-imathur3
+# Wikipedia Race Solver
+
+This app is meant to find the shortest sequence of links between any 2 Wikipedia articles to beat the 'Wiki Race' game. Details about the game are [here](https://en.wikipedia.org/wiki/Wikipedia:Wikirace).
 
 The code is contained in the `src` folder. An example of how to use the Wikipedia class is in the `main.cpp` file. The tests can be found in the `tests` folder. The Wikipedia dataset is in the `data` folder and the documents, including the written report are in the `documents` folder.
 
